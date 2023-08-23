@@ -1,0 +1,10 @@
+PING rewrite.amazon.com (72.21.206.80) 56(84) bytes of data.
+64 bytes from 206-80.amazon.com (72.21.206.80): icmp_seq=1 ttl=235 time=604 ms
+64 bytes from 206-80.amazon.com (72.21.206.80): icmp_seq=2 ttl=235 time=229 ms
+64 bytes from 206-80.amazon.com (72.21.206.80): icmp_seq=3 ttl=235 time=651 ms
+64 bytes from 206-80.amazon.com (72.21.206.80): icmp_seq=4 ttl=235 time=265 ms
+64 bytes from 206-80.amazon.com (72.21.206.80): icmp_seq=5 ttl=235 time=618 ms
+
+--- rewrite.amazon.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 228.960/473.498/651.412/185.898 ms
