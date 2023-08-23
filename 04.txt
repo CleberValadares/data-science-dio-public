@@ -1,0 +1,9 @@
+total 28
+drwxrwxr-x 3 cleber cleber 4096 Aug 22 22:18 ./
+drwxr-xr-x 6 cleber cleber 4096 Aug 22 22:00 ../
+-rw-rw-r-- 1 cleber cleber    0 Aug 22 22:18 04.txt
+-rw-rw-r-- 1 cleber cleber  797 Aug 22 22:03 file1
+-rw-rw-r-- 1 cleber cleber  597 Aug 22 22:03 file2
+-rw-rw-r-- 1 cleber cleber  621 Aug 22 22:14 file3
+drwxrwxr-x 8 cleber cleber 4096 Aug 22 22:18 .git/
+-rw-rw-r-- 1 cleber cleber  255 Aug 22 21:59 Readme
